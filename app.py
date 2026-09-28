@@ -4,6 +4,8 @@ from typing import List
 from models import ConfigManager, RoutineItem
 from tracker import ProcessWindowTracker
 
+
+# 커밋 테스트트
 ctk.set_appearance_mode("Dark")
 ctk.set_default_color_theme("blue")
 
